@@ -1,2 +1,2 @@
-# Exclude
-**/.ipynb_checkpoints/**
+.ipynb_checkpoints/
+datasets/
